@@ -148,7 +148,6 @@ BOARD_ROOT_EXTRA_SYMLINKS := \
     /vendor/dsp:/dsp \
     /vendor/firmware_mnt:/firmware \
     /mnt/vendor/persist:/persist \
-    /vendor/bt_firmware:/bt_firmware
 BOARD_SYSTEMIMAGE_PARTITION_SIZE   := 3221225472
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 9862356480
 BOARD_VENDORIMAGE_PARTITION_SIZE   := 1073741824
